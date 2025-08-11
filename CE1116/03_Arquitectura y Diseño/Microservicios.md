@@ -10,14 +10,12 @@ Topic:
 
 ## 📚 Idea/Concepto 
 
-
+La arquitectura de microservicios es una forma de construir aplicaciones dividiéndolas en pequeños servicios independientes, cada uno encargado de una parte específica del sistema. Estos servicios se comunican entre sí a través de APIs y se pueden desarrollar, desplegar y escalar de forma independiente.
 ## 📌 Puntos Claves (Opcional)
-- 
+- Facilita la escalabilidad y el despliegue continuo.
+- Cada microservicio puede usar su propio lenguaje y base de datos.
+- Reduce el impacto de fallos al aislar funciones.
 
 ## 🔗 Connections
-- [[Ejemplo Nueva Nota]]
-
-## 💡 Personal Insight (Opcional)
-- 
-## 🧾 Recursos (Opcional)
-- 
+- [[Arquitectura de Software]]
+- [[Implementación]]
