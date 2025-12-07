@@ -11,10 +11,14 @@
             "id": "cf1e795cba9d99d9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -168,6 +172,15 @@
   },
   "active": "84d3235176a5ae4b",
   "lastOpenFiles": [
+    "CE1116/03_Arquitectura y Diseño/Virtual Private Cloud (VPC).md",
+    "CE1116/03_Arquitectura y Diseño/Public IP en el Cloud.md",
+    "CE1116/03_Arquitectura y Diseño/Cloud Híbrido (Hybrid Cloud).md",
+    "CE1116/03_Arquitectura y Diseño/Almacenamiento Redundante en Zona en el Cloud (ZRS).md",
+    "CE1116/03_Arquitectura y Diseño/Almacenamiento Redundante Localmente (LRS).md",
+    "CE1116/03_Arquitectura y Diseño/Almacenamiento Geo-Redundante (GRS).md",
+    "CE1116/02_Requirimientos/Escalamiento Horizontal y Vertical en el Cloud.md",
+    "CE1116/01_Procesos de Desarrollo/IaaS vs PaaS vs SaaS.md",
+    "README.md",
     "CE1116/03_Arquitectura y Diseño/Cohesión en desarrollo de software .md",
     "CE1116/03_Arquitectura y Diseño/Broker en arquitecturas Event Driven.md",
     "CE1116/03_Arquitectura y Diseño/Arquitectura en capas.md",
@@ -183,17 +196,8 @@
     "CE1116/00_Inbox/Latencia 1.md",
     "CE1116/04_Implementación/Disponibilidad de la aplicación.md",
     "CE1116/03_Arquitectura y Diseño/Trade off en el diseño y arquitectura de software.md",
-    "README.md",
     "CE1116/03_Arquitectura y Diseño/Estrategia de modelado de la arquitectura por puntos de vista.md",
     "CE1116/08_Templates/Atomic Template.md",
-    "CE1116/03_Arquitectura y Diseño/Redes Neuronales.md",
-    "CE1116/03_Arquitectura y Diseño/Large Language Models (LLMs).md",
-    "CE1116/03_Arquitectura y Diseño/Mecanismo de atención en Transformers.md",
-    "CE1116/03_Arquitectura y Diseño/Embeddings.md",
-    "CE1116/03_Arquitectura y Diseño/Ventana de Contexto.md",
-    "Despliegue e Infraestructura.md",
-    "CE1116/03_Arquitectura y Diseño/Tokenización.md",
-    "CE1116/03_Arquitectura y Diseño/Microservicios.md",
     "Untitled.canvas",
     "CE1116/08_Templates",
     "CE1116/00_Inbox",
